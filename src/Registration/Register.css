@@ -1,0 +1,40 @@
+.Register_div{
+  display: flex;
+  flex-direction: column;
+  gap: 100px;
+}
+
+
+input[type="fname"],
+input[type="lname"],
+input[type="email"],
+input[type="text"],
+input[type="address"],
+input[type="note"],
+input[type="email"],
+input[type="password"] {
+  height: 25px;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  background: var(--gradient-bar)
+}
+.gpt3__Register-image img{
+  width: 100%;
+  height: 100%;
+}
+.Div1{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+}
+
+
+.Div2{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+}
+
