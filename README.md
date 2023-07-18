@@ -1,6 +1,6 @@
  <h1>SIID - Smart Ignition Interlock Device</h1>
 
-  <p>Welcome to the SIID (Smart Ignition Interlock Device) project! This is a React website that serves as the user interface for controlling and monitoring the SIID system.</p>
+  <p>Welcome to the SIID (Smart Ignition Interlock Device) project! This is a React website of the SIID system.</p>
 
   <h2>Getting Started</h2>
 
@@ -22,16 +22,16 @@
 
   <p>The website should now be running locally on <code>http://localhost:3000</code>. Open this URL in your web browser to access the SIID user interface.</p>
 
-  <h2>Features</h2>
+  <h2>Objectives</h2>
 
   <p>The SIID website offers the following features:</p>
 
   <ul>
-    <li>User authentication and authorization</li>
-    <li>Dashboard for device monitoring and status</li>
-    <li>Settings management</li>
+    <li>To prevent alcohol-impaired driving</li>
+    <li>To enhance user accountability</li>
+    <li>To improve and enhance the user experience</li>
     <li>Alerts and notifications</li>
-    <li>Reports and statistics</li>
+    <li>To increase road safety</li>
   </ul>
 
   <h2>Contributing</h2>
@@ -46,10 +46,6 @@
     <li>Create a pull request on the original repository.</li>
   </ol>
 
-  <h2>License</h2>
-
-  <p>This project is licensed under the MIT License. See the <a href="LICENSE">LICENSE</a> file for more details.</p>
-
   <hr>
 
-  <p align="center">Made with ❤️ by Your Name</p>
+  <p align="center">Made with ❤️ by Omkar</p>
