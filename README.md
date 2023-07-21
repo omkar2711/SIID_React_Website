@@ -7,17 +7,18 @@
   <p>To run the SIID website locally, follow these steps:</p>
 
   
-    <li>Clone the repository:</li>
-    <pre><code>git clone https://github.com/your-username/siid-react-website.git</code></pre>
+    Clone the repository:
+    git clone https://github.com/your-username/siid-react-website.git
 
-    <li>Change into the project directory:</li>
-    <pre><code>cd siid-react-website</code></pre>
+    Change into the project directory:
+    cd siid-react-website
 
-    <li>Install the dependencies:</li>
-    <pre><code>npm install</code></pre>
+    Install the dependencies:
+    npm install
 
-    <li>Start the development server:</li>
-    <pre><code>npm start</code></pre>
+    Start the development server:
+    npm start
+  
   
 
   <p>The website should now be running locally on <code>http://localhost:3000</code>. Open this URL in your web browser to access the SIID user interface.</p>
