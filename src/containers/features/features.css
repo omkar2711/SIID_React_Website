@@ -42,13 +42,7 @@
 }
 
 
-@media screen and (max-width: 950px) {
-  
-    .gpt3__possibility-image img {
-        width: 500px;
-        height : unset;
-    }
-}
+
 @media screen and (max-width: 900px) {
     .gpt3__features {
         flex-direction: column;
